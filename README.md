@@ -7,10 +7,10 @@
 <tr>
 <!-- 🟡 左侧：你的头像 -->
 <td width="30%" align="center" valign="center">
-<img src="https://github.com/AiLiXiYaying.png" width="180" style="border-radius: 50%; border: 4px solid #A965FF;">
+<img src="https://github.com/AiLiXiYaying.png" width="200" style="border-radius: 50%; border: 4px solid #A965FF;">
 <br><br>
 <!-- 你的名字或ID -->
-<h3 align="center">卡提希娅世界第一可爱！</h3>
+<h3 align="center">卡提希娅世界第一可爱</h3>
 </td>
 
 <!-- 🟢 右侧：个人介绍 & 技能 -->
