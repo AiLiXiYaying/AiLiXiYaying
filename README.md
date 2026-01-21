@@ -9,7 +9,7 @@
     <!-- 🟢 左侧护法 (Left Waifu) -->
     <!-- ✅ 这里修改为你 Image 文件夹里的图片名 -->
     <td width="20%" align="center" valign="center" style="border: none;">
-      <img src="Image\KTXY.png" width="100%" style="border-radius: 10px;">
+      <img src="[Image\KTXY.png](https://github.com/AiLiXiYaying/AiLiXiYaying/blob/main/Image/KTXY.png?raw=true)" width="100%" style="border-radius: 10px;">
     </td>
 
     <!-- 🟡 中间：核心内容 -->
