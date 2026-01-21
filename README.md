@@ -9,7 +9,7 @@
 </td>
 <td width="60%" align="center" valign="top" style="border: none; padding: 0 10px;">
 <a href="https://sunguoqi.com/">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=此生献给GameWorld;C%2B%2B+%26+Unreal+Engine;打破次元壁的创造者&center=true&size=24&color=A965FF&vCenter=true&width=450&height=50&font=Pixelify+Sans">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=此生献给GameWorld;&center=true&size=24&color=A965FF&vCenter=true&width=450&height=50&font=Pixelify+Sans">
 </a>
 <p align="center">
 <b>" Code is the skeleton, Art is the soul. "</b>
