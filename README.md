@@ -61,13 +61,13 @@ Hello！我是一名热衷于 <b>二次元</b> 的游戏开发者.<br>
      第 5 张图会自动居中显示在第 3 行。
   -->
   
-  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/KTXY.png" width="48%" style="border-radius: 10px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/x.png" width="48%" style="border-radius: 10px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/KTXY.png" width="90%" style="border-radius: 10px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/x.png" width="90%" style="border-radius: 10px; margin: 5px;">
   
-  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA.png" width="48%" style="border-radius: 10px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA1.png" width="48%" style="border-radius: 10px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA.png" width="90%" style="border-radius: 10px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA1.png" width="90%" style="border-radius: 10px; margin: 5px;">
   
-  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA2.png" width="48%" style="border-radius: 10px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA2.png" width="90%" style="border-radius: 10px; margin: 5px;">
 
 </div>
 
