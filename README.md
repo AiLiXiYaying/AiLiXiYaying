@@ -57,9 +57,11 @@ Hello！我是一名热衷于 <b>二次元</b> 的游戏开发者.<br>
 <!-- 图片1 -->
 <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/KTXY.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
 <!-- 图片2 -->
-<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/你的右图文件名.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
+<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/x.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
 <!-- 图片3 (可以用同样的链接测试，以后再换) -->
-<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/你的左图文件名.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
+<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
+<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA1.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
+<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA2.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
 </div>
 
 <br>
