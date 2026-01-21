@@ -1,46 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=header&animation=fadeIn" width="100%"/>
+<!-- 顶部装饰 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 
-<table style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td width="20%" align="center" valign="center" style="border: none;">
-<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/KTXY.png" width="100%" style="border-radius: 10px; object-fit: cover;">
+<table border="0" width="100%">
+<tr>
+<!-- 🟡 左侧：你的头像 (自动获取你GitHub现在的头像) -->
+<td width="30%" align="center" valign="center">
+<img src="https://github.com/AiLiXiYaying.png" width="180" style="border-radius: 50%; border: 4px solid #A965FF;">
+<br><br>
+<!-- 你的名字或ID -->
+<h3 align="center">AiLiXiYaying</h3>
 </td>
-<td width="60%" align="center" valign="top" style="border: none; padding: 0 10px;">
+
+<!-- 🟢 右侧：个人介绍 & 技能 -->
+<td width="70%" valign="top">
+
+<!-- 动态文字 -->
 <a href="https://sunguoqi.com/">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=此生献给GameWorld;&center=true&size=24&color=A965FF&vCenter=true&width=450&height=50&font=Pixelify+Sans">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=此生献给GameWorld;Unreal+Engine+Developer;C%2B%2B+%2F+C%23+%2F+Blueprint&center=false&size=22&color=A965FF&width=500&height=40&font=Pixelify+Sans">
 </a>
-<p align="center">
-<b>" Code is the skeleton, Art is the soul. "</b>
-</p>
-<p align="center">
-这里是 <b>AiLiXiYaying</b> 的异世界工坊。<br>
-专注于 <b>Unreal Engine</b> 硬核开发。<br>
-正在构建心中的理想乡。
-</p>
+
 <br>
-<div align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+
+<!-- 简介文本 -->
+<b>✨ About Me:</b><br>
+你好！我是一名热衷于 <b>二次元风格</b> 的游戏开发者。<br>
+我正在使用 <b>Unreal Engine</b> 和 <b>C++</b> 创造独特的虚拟世界。<br>
+目标是让代码赋予角色灵魂。<br>
+
 <br>
-<img src="https://img.shields.io/badge/Unreal_Engine-black?style=for-the-badge&logo=unreal-engine&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
-<img src="https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk-maya&logoColor=white">
-<img src="https://img.shields.io/badge/ZBrush-EE3819?style=for-the-badge&logo=zbrush&logoColor=white">
+
+<!-- 技术栈徽章 -->
+<b>🛠️ Tech Stack:</b><br>
+<div>
+<img src="https://img.shields.io/badge/Unreal_Engine-black?style=flat-square&logo=unreal-engine&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white">
+<img src="https://img.shields.io/badge/Maya-0696D7?style=flat-square&logo=autodesk-maya&logoColor=white">
 </div>
+
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=AiLiXiYaying&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" width="100%" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiLiXiYaying&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" width="100%" />
-</td>
-<td width="20%" align="center" valign="center" style="border: none;">
-<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/你的右图文件名.png" width="100%" style="border-radius: 10px; object-fit: cover;">
+
+<!-- 简单的数据统计 -->
+<img src="https://github-readme-stats.vercel.app/api?username=AiLiXiYaying&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&height=100" />
+
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+<br>
+
+<!-- 🖼️ 中间区域：二次元画廊 (Gallery) -->
+<!-- 这里你需要替换成你自己的图片链接 -->
+<h2 align="center">🎨 Game Art & Gallery</h2>
+<div align="center">
+<!-- 图片1 -->
+<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/你的左图文件名.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
+<!-- 图片2 -->
+<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/你的右图文件名.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
+<!-- 图片3 (可以用同样的链接测试，以后再换) -->
+<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/你的左图文件名.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
+</div>
+
+<br>
+
+<!-- 🎬 底部区域：视频展示 -->
+<h2 align="center">🎥 Demo Video</h2>
+<div align="center">
+<!-- ⚠️ 重要：看下方的“如何上传视频”说明 -->
+请在此处拖拽上传你的视频文件...
+</div>
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 
 </div>
