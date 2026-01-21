@@ -52,10 +52,10 @@ Hello！我是一名热衷于 <b>二次元</b> 的游戏开发者.<br>
 
 <!-- 🖼️ 中间区域：二次元画廊 (Gallery) -->
 <!-- 这里你需要替换成你自己的图片链接 -->
-<h2 align="center">🎨 Game Art & Gallery</h2>
+<h2 align="center">🎨 Game Art && Gallery</h2>
 <div align="center">
 <!-- 图片1 -->
-<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/你的左图文件名.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
+<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/KTXY.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
 <!-- 图片2 -->
 <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/你的右图文件名.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
 <!-- 图片3 (可以用同样的链接测试，以后再换) -->
