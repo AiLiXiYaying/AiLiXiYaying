@@ -66,11 +66,6 @@ Hello！我是一名热衷于 <b>二次元</b> 的游戏开发者.<br>
   <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA.png" width="90%" style="border-radius: 10px; margin: 5px;">
   <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA1.png" width="90%" style="border-radius: 10px; margin: 5px;">
   <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA2.png" width="90%" style="border-radius: 10px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/20251220010821.png" width="90%" style="border-radius: 10px; margin: 5px;">
-      <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/20251213222818.png" width="90%" style="border-radius: 10px; margin: 5px;">
-        <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/20251220010833.png" width="90%" style="border-radius: 10px; margin: 5px;">
-          <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/20251211004417.png" width="90%" style="border-radius: 10px; margin: 5px;">
-            <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/20251211005812.png" width="90%" style="border-radius: 10px; margin: 5px;">
 
 </div>
 
