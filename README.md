@@ -25,7 +25,7 @@
 
 <!-- 简介文本 -->
 <b>✨ About Me:</b><br>
-你好！我是一名热衷于 <b>二次元风格</b> 的游戏开发者.<br>
+Hello！我是一名热衷于 <b>二次元</b> 的游戏开发者.<br>
 我使用 <b>Unreal Engine</b> and <b>C++</b> <br>
 现在处于学习GamePlay框架 ing.<br>
 
