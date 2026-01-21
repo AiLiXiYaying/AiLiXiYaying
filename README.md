@@ -1,44 +1,40 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=此生献给GameWorld&center=true&size=27"> </a> </h1>
-
 <div align="center">
- 
-<!-- 替换下面的图片链接为你自己喜欢的游戏风格Banner，或者保留这个动图 -->
-<img src="https://media.giphy.com/media/26tn33ai0DsUj7iZw/giphy.gif" width="100%"/>
 
-### 🎮 Player Profile: AiLiXiYaying
+<img src="https://readme-typing-svg.herokuapp.com/?lines=此生献给GameWorld&center=true&size=27&color=ff69b4&vCenter=true&width=500&height=50">
+
+<!-- 这是一个随机的二次元横幅，你可以换成你喜欢的图片 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AiLiXiYaying&descAlignY=51&descAlign=62" />
+
+### 👋 About Me
  
-🕹️ **Class:** Game Developer / Coder  
-🌏 **Server:** Earth (China Region)  
-⚔️ **Main Quest:** Creating immersive worlds with code.  
-🛡️ **Side Quest:** Learning [你的正在学习的技术]  
+Hey! 我是一名热爱游戏开发的程序员。我致力于构建有趣的世界。
  
+<img src="https://media.giphy.com/media/VbO86yY6F4q6Q/giphy.gif" width="200" align="right">
+ 
+- 🔭 **Working on:** Indie Games
+- 🌱 **Learning:** Shader Graph
+- ⚡ **Fun fact:** I can code for 12 hours straight with coffee! ☕
+
+<br>
+
+### 🏆 Achievements
+<!-- 这是一个奖杯展示，会根据你的GitHub成就自动解锁 -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=AiLiXiYaying&theme=flat&no-frame=true&column=6" />
+</a>
+
 ---
 
-### 🎒 Inventory (Tech Stack)
-<!-- 这里使用 Shields.io 生成徽章，你可以根据需要增减 -->
-<p>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+### 🛠️ Tech Stack
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📊 Player Stats (GitHub Data)
-
-<!-- 把下面链接中的 AiLiXiYaying 换成你的用户名 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AiLiXiYaying&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiLiXiYaying&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="180" alt="languages" />
-</div>
-
-<!-- 这是一个贪吃蛇动画，会自动根据你的提交记录生成 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+### 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=AiLiXiYaying&show_icons=true&theme=buefy&hide_border=true" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiLiXiYaying&layout=compact&theme=buefy&hide_border=true" height="150">
 
 </div>
