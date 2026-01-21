@@ -10,7 +10,7 @@
 <img src="https://github.com/AiLiXiYaying.png" width="180" style="border-radius: 50%; border: 4px solid #A965FF;">
 <br><br>
 <!-- 你的名字或ID -->
-<h3 align="center">AiLiXiYaying</h3>
+<h3 align="center">卡提希娅世界第一可爱！</h3>
 </td>
 
 <!-- 🟢 右侧：个人介绍 & 技能 -->
@@ -18,16 +18,16 @@
 
 <!-- 动态文字 -->
 <a href="https://sunguoqi.com/">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=此生献给GameWorld;Unreal+Engine+Developer;C%2B%2B+%2F+C%23+%2F+Blueprint&center=false&size=22&color=A965FF&width=500&height=40&font=Pixelify+Sans">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=此生献给GameWorld;&center=false&size=22&color=A965FF&width=500&height=40&font=Pixelify+Sans">
 </a>
 
 <br>
 
 <!-- 简介文本 -->
 <b>✨ About Me:</b><br>
-你好！我是一名热衷于 <b>二次元风格</b> 的游戏开发者。<br>
-我正在使用 <b>Unreal Engine</b> 和 <b>C++</b> 创造独特的虚拟世界。<br>
-目标是让代码赋予角色灵魂。<br>
+你好！我是一名热衷于 <b>二次元风格</b> 的游戏开发者.<br>
+我使用 <b>Unreal Engine</b> and <b>C++</b> <br>
+现在处于学习GamePlay框架 ing.<br>
 
 <br>
 
@@ -36,9 +36,7 @@
 <div>
 <img src="https://img.shields.io/badge/Unreal_Engine-black?style=flat-square&logo=unreal-engine&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white">
-<img src="https://img.shields.io/badge/Maya-0696D7?style=flat-square&logo=autodesk-maya&logoColor=white">
 </div>
 
 <br>
