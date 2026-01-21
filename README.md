@@ -5,7 +5,7 @@
 
 <table border="0" width="100%">
 <tr>
-<!-- 🟡 左侧：你的头像 (自动获取你GitHub现在的头像) -->
+<!-- 🟡 左侧：你的头像 -->
 <td width="30%" align="center" valign="center">
 <img src="https://github.com/AiLiXiYaying.png" width="180" style="border-radius: 50%; border: 4px solid #A965FF;">
 <br><br>
@@ -27,7 +27,7 @@
 <b>✨ About Me:</b><br>
 Hello！我是一名热衷于 <b>二次元</b> 的游戏开发者.<br>
 我使用 <b>Unreal Engine</b> and <b>C++</b> <br>
-现在处于学习GamePlay框架 ing.<br>
+现在处于学习 GamePlay 框架 ing.<br>
 
 <br>
 
@@ -51,17 +51,24 @@ Hello！我是一名热衷于 <b>二次元</b> 的游戏开发者.<br>
 <br>
 
 <!-- 🖼️ 中间区域：二次元画廊 (Gallery) -->
-<!-- 这里你需要替换成你自己的图片链接 -->
 <h2 align="center">🎨 Game Art && Gallery</h2>
+
 <div align="center">
-<!-- 图片1 -->
-<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/KTXY.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
-<!-- 图片2 -->
-<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/x.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
-<!-- 图片3 (可以用同样的链接测试，以后再换) -->
-<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
-<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA1.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
-<img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA2.png" width="30%" height="auto" style="border-radius: 10px; margin: 5px;">
+  <!-- 
+     ✅ 修改说明：
+     我把 width="30%" 全部改成了 width="48%"
+     这样一行只会显示 2 张图，图片会变得很大很清晰！
+     第 5 张图会自动居中显示在第 3 行。
+  -->
+  
+  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/KTXY.png" width="48%" style="border-radius: 10px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/x.png" width="48%" style="border-radius: 10px; margin: 5px;">
+  
+  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA.png" width="48%" style="border-radius: 10px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA1.png" width="48%" style="border-radius: 10px; margin: 5px;">
+  
+  <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/DAKAXIAOKA2.png" width="48%" style="border-radius: 10px; margin: 5px;">
+
 </div>
 
 <br>
