@@ -69,7 +69,7 @@ Hello！我是一名热衷于 <b>二次元</b> 的游戏开发者.<br>
 <!-- 🎬 底部区域：视频展示 -->
 <h2 align="center">🎥 Demo Video</h2>
 <div align="center">
-<a href="[https://www.bilibili.com/video/BVxxxxxx/](https://www.bilibili.com/video/BV1XJjZzkEfm/?spm_id_from=333.337.search-card.all.click&vd_source=b80de2e394cd52c729e13308b7529d52)">
+<a href="https://www.bilibili.com/video/BV1XJjZzkEfm/?spm_id_from=333.337.search-card.all.click&vd_source=b80de2e394cd52c729e13308b7529d52">
 </div>
 
 <br>
