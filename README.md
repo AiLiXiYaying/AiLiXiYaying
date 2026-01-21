@@ -6,7 +6,7 @@
   <tr style="border: none;">
     
     <td width="20%" align="center" valign="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/你的左图文件名.png" width="100%" style="border-radius: 10px; object-fit: cover;">
+      <img src="https://raw.githubusercontent.com/AiLiXiYaying/AiLiXiYaying/main/Image/KTXY.png" width="100%" style="border-radius: 10px; object-fit: cover;">
     </td>
 
     <td width="60%" align="center" valign="top" style="border: none; padding: 0 10px;">
