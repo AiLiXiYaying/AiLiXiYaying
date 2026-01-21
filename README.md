@@ -1,73 +1,73 @@
 <div align="center">
 
-<!-- 顶部动态标语 -->
-<a href="https://sunguoqi.com/">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=此生献给GameWorld;打破次元壁的创造者;Unreal+Engine+Developer&center=true&size=32&color=F778BA&vCenter=true&width=600&height=70&font=Pixelify+Sans">
-</a>
+<!-- 顶部：简单的欢迎条 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=header&animation=fadeIn" width="100%"/>
 
-<!-- 顶部装饰性波浪 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,25,30&height=180&section=header&text=Welcome%20Master&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=To%20My%20Game%20Dev%20Space&descAlignY=60" width="100%">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    
+    <!-- 🟢 左侧护法 (Left Waifu) -->
+    <td width="20%" align="center" valign="center" style="border: none;">
+      <!-- 把下面的链接换成你喜欢的【竖长】立绘 -->
+      <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.png" width="100%" style="border-radius: 10px;">
+    </td>
 
-</div>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- 左侧：文字介绍与技能 -->
-    <td width="60%" valign="top">
-      <h2>✨ About Me</h2>
-      <p>
-        你好！我是 <b>AiLiXiYaying</b> (或者是你的名字)。<br>
-        一名穿梭在代码与多边形之间的 <b>游戏开发者</b>。<br>
-        致力于用 <b>Unreal Engine</b> 构建令人心动的虚拟世界。
-      </p>
+    <!-- 🟡 中间：核心内容 (Core Content) -->
+    <td width="60%" align="center" valign="top" style="border: none;">
       
-      <p>
-        🌱 <b>Current Quest:</b> 正在钻研 3D 渲染与物理模拟<br>
-        ⚔️ <b>Main Weapon:</b> C++ & Unreal Engine<br>
-        🎨 <b>Art Tools:</b> Modeling & Tech Art
+      <!-- 动态Slogan -->
+      <a href="https://sunguoqi.com/">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=此生献给GameWorld;C%2B%2B+%26+Unreal+Engine;To+Build+The+Dream+World&center=true&size=26&color=A965FF&vCenter=true&width=500&height=50&font=Pixelify+Sans">
+      </a>
+
+      <!-- 简介 -->
+      <p align="center">
+        <b>" 代码是骨架，美术是灵魂 "</b>
+      </p>
+      <p align="center">
+        这里是 <b>AiLiXiYaying</b> 的工坊。<br>
+        我专注于 <b>Unreal Engine</b> 开发，梦想是创造出让玩家感动的世界。<br>
+        <i>(I code C++, C# and Blueprint to make waifus move.)</i>
       </p>
 
       <br>
 
-      <h2>🛠️ Tech & Tools</h2>
-      <!-- 这里只展示你要求的：Unreal, C++, C#, 3D软件 -->
-      <div align="left">
-        <!-- 第一行：核心编程 -->
+      <!-- 🛠️ 技术栈 (只放你要求的) -->
+      <h3>⚔️ Weaponry</h3>
+      <div align="center">
+        <!-- 语言 -->
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
         <br>
-        <!-- 第二行：引擎 -->
-        <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white">
+        <!-- 引擎 -->
+        <img src="https://img.shields.io/badge/Unreal_Engine-black?style=for-the-badge&logo=unreal-engine&logoColor=white">
         <br>
-        <!-- 第三行：3D软件 (这里用了Blender和Maya作为代表，你可以改) -->
+        <!-- 3D软件 -->
         <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
         <img src="https://img.shields.io/badge/Autodesk_Maya-0696D7?style=for-the-badge&logo=autodesk-maya&logoColor=white">
+        <img src="https://img.shields.io/badge/ZBrush-EE3819?style=for-the-badge&logo=zbrush&logoColor=white">
       </div>
-      
+
       <br>
+
+      <!-- 📊 数据统计 (紧凑型，粉紫色主题) -->
+      <h3>📈 Adventure Logs</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=AiLiXiYaying&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" width="100%" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiLiXiYaying&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" width="100%" />
       
-      <h2>🎧 My Coding Mood</h2>
-      <!-- 这是一个Spotify风格的正在播放图片，其实是装饰 -->
-      <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&uib_color=F778BA&text_color=ffffff&song_name=Game%20World&artist_name=Unreal%20Dev&album_name=Coding%20Life&image_url=https://i.pinimg.com/564x/4b/32/e0/4b32e01eb47b2c55a5b508f7311df83b.jpg" width="100%">
     </td>
 
-    <!-- 右侧：巨大的二次元立绘 (这是灵魂) -->
-    <td width="40%" valign="center" align="center">
-      <!-- 🔴【重要】把下面的链接换成你最喜欢的动漫角色的透明背景图或GIF -->
-      <!-- 这里我放了一个通用的二次元编程少女GIF -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q5eGZ4OHo5OG55YmZ5YmZ5YmZ5YmZ5YmZ5YmZ5YmZ5/LMcB8XWQG8Qk5jWlQy/giphy.gif" width="100%">
-      <br><br>
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Coding...;Rendering...;Compiling...&center=true&size=18&color=F778BA&width=200&height=30">
+    <!-- 🟣 右侧护法 (Right Waifu) -->
+    <td width="20%" align="center" valign="center" style="border: none;">
+      <!-- 把下面的链接换成你喜欢的【竖长】立绘 -->
+      <img src="https://i.pinimg.com/originals/c8/95/2d/c8952d6e421a55327e52a4270d4f9d0c.png" width="100%" style="border-radius: 10px;">
     </td>
+
   </tr>
 </table>
 
-<!-- 底部数据统计，使用粉色主题 -->
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AiLiXiYaying&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F778BA&icon_color=F778BA" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiLiXiYaying&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F778BA&langs_count=4" height="160" />
-</div>
+<!-- 底部装饰 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 
-<!-- 底部装饰线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
